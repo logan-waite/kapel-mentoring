@@ -6,5 +6,6 @@
 
 module.exports = {
   siteName: 'Kapel',
-  plugins: []
+  plugins: [],
+  icon: './src/assets/icon.png'
 }
