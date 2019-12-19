@@ -1,0 +1,5 @@
+{
+    "javascript.format.semicolons": "remove",
+    "vetur.format.defaultFormatter.js": "none",
+    "vetur.format.options.tabSize": 4
+}
